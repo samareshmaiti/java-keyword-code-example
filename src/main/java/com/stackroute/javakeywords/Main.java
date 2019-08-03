@@ -44,6 +44,16 @@ public class Main {
         MyInterface fobj = ()->System.out.println("this is lambda expression");
         // This calls above lambda expression and prints 10.
         fobj.print();
+        // autoboxing of int to Integer wrapper object
+        Integer g = 6;
+        System.out.println(g);
+        // unboxing done, where the Integer object value back to int
+        g =  g - 2;
+        System.out.println(g);
+        //implementing NumberDemo Class
+        Main main=new Main();
+
+
 
 
 
