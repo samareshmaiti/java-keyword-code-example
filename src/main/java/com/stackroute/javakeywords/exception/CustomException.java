@@ -14,8 +14,11 @@ public class CustomException extends InsufficientBalanceException {
             try{
                 validate(1000);
             }catch(Exception m){System.out.println("Exception occured: "+m);}
+            finally
+            {
+                System.out.println("class completed");
+            }
 
-            System.out.println("class completed");
         }
     }
 
