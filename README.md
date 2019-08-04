@@ -16,3 +16,7 @@
 4.Exception handling - try, catch, finally blocks, Throw exceptions, Creating custom exception class, chained exceptions,             Advantages of exceptions.
 
  ******Package used:com.stackroute.javakeywords.exception******
+ 
+ 5.Basic I/O - I/O Streams using java.io package (Byte, Character, Buffered Stream, Scanning and formating, Data streams),  File I/O using java.nio.file package (Path class, File operations etc)
+ 
+  ******Package used:com.stackroute.javakeywords.inputoutputstream******
