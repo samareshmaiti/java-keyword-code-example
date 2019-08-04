@@ -1,6 +1,8 @@
+package com.stackroute.javakeywords.numberandstring;
+
 public class NumberDemo {
-     public static void main(String[] args) {
-         Integer g = 6;
+    public static void main(String[] args) {
+        Integer g = 6;
         Integer d = 4;
         Double c = Double.valueOf(5);
         Float fl = Float.valueOf("62");
